@@ -1,0 +1,76 @@
+.banner-top{
+    text-align: center;
+    font-family: Merriweather;
+    background-image: url('../resources/banner image.png');
+    background-size:contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.banner-title{
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 100px;
+    margin-bottom: 0;
+}
+
+.banner-title-one{
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0;
+    /* line-height: 95px; */
+}
+.discount{
+    text-align: center;
+    color:red;
+    font-weight:1000 ;
+    font-family:  Inter;
+}
+.better-deal{
+    text-align:center;
+    color: red;
+    font-weight:500 ;
+    font-family:Inter;
+}
+.categorie{
+    text-align: center;
+    font-weight:600;
+    font-size:48px;
+    font-family:  Inter;
+    margin-bottom: 0;
+}
+
+.onlypicture{
+    height: 802px;
+    width: 500px;
+    background-image: url('resources/New\ Year\ Photo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    margin-left:220px;
+}
+.invit-join{
+    background-image: url('resources/Vectorrr.png');
+    background-size:contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 800px;
+    margin: 0px 20px 0px 120px;
+}
+.party-title{
+    color:white;
+    padding-top:150px;
+
+}
+.party-description{
+    color:white;
+}
+.join{
+    color:white;
+    display: flex;
+}
+.img-in-left{
+    display: flex;
+}
